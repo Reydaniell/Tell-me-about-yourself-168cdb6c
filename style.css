@@ -1,0 +1,21 @@
+h1 {
+    color: red;
+}
+
+ul {
+	color: red;
+}
+ol {
+	color: red;
+}
+body {background-color: grey;
+}
+img {/* <length> values */
+width: 100px;
+width: 10em;
+}
+input {
+	border-radius: 30px;
+}
+.toets {margin: 10px;
+}
